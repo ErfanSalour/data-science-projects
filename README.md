@@ -1,8 +1,3 @@
-# data-science-projects
-Portfolio of data science and AI projects (Applied Data Science &amp; AI student)
-
-
-
 # Erfan Salour – Data Science & AI Portfolio
 
 Applied Data Science & AI student with experience in machine learning, NLP, computer vision, and MLOps.
@@ -12,8 +7,8 @@ This repository showcases selected academic and personal projects.
 - Python, Pandas, NumPy, Scikit-learn, PyTorch
 - Machine Learning & Deep Learning
 - NLP, Computer Vision
-- SQL, Git, Docker (if applicable)
-- Power BI (if applicable)
+- SQL, Git, Docker
+- Power BI 
 
 ## Projects
 - [Project 1 – Title](link)
